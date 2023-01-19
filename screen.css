@@ -3,7 +3,8 @@ html{
 }
 
 .container{
-    position: absolute;
-    width: 400px;
-    height: 200px;
+    display: block;
+    width: auto;
+    height: auto;
+    width: 20%;
 }
